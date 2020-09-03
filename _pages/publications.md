@@ -30,7 +30,7 @@ nav: true
 ### Talks
 
 - Floodgate: Inference for Model-Free Variable Importance, [Bernoulli-IMS One World Symposium](https://www.worldsymposium2020.org/), August 2020
-	- [Accompanying poster](OWS_Floodgate_Poster.pdf)
+	- [Accompanying poster](../assets/pdf/OWS_Floodgate_Poster.pdf)
 
 
 --- 
