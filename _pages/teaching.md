@@ -8,7 +8,12 @@ nav: true
 
 <br>
 
-#### Courses Taught at Harvard
+<!-- #### Courses Taught at Harvard -->
+<div id="container">
+    <div class="myheader2">
+    <p>Courses Taught at Harvard</p>
+    </div>
+</div>
 
 <table class="table">
 <!-- <thead>
@@ -33,7 +38,12 @@ nav: true
 
 <br>
 
-#### Courses Taught at USTC
+<!-- #### Courses Taught at USTC -->
+<div id="container">
+    <div class="myheader2">
+    <p>Courses Taught at USTC</p>
+    </div>
+</div>
 
 <table class="table">
 <!-- <thead>
@@ -51,7 +61,13 @@ nav: true
 
 <br>
 
-#### Consulting Services
+<!-- #### Consulting Services -->
+
+<div id="container">
+    <div class="myheader2">
+    <p>Consulting Services</p>
+    </div>
+</div>
 
 <table class="table">
 <!-- <thead>

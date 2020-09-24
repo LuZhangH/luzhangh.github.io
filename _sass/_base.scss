@@ -2,6 +2,42 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+
+//  body {
+//   font-family: Courier, Monaco, monospace;
+// }
+
+/*Change on a specific elements*/
+#container .myheader{
+  font-family: courier, monospace;
+  // font-family: serif;
+  // font-family: sans-serif;
+  font-variant: small-caps;
+  font-stretch: extra-expanded;
+  font-weight: lighter;
+  font-size: 1.7rem;
+}
+#container .myheader2{
+  // font-family: courier, monospace;
+  // font-family: serif;
+  font-family: sans-serif;
+  font-variant: small-caps;
+  // font-stretch: extra-condensed;
+  font-weight: lighter;
+  font-size: 1.5rem;
+}
+
+#container .myheader3{
+  // font-family: icon;
+  // font-family: serif;
+  font-family: helvetica, sans-serif;
+  font-variant: normal;
+  // font-stretch: extra-condensed;
+  font-weight: lighter;
+  font-size: 1.6rem;
+}
+
+
 // Typography
 
 a, table.table a {
@@ -36,8 +72,8 @@ a, table.table a {
 
 .profile {
     .address {
-      font-family: monospace;
-      font-size: 1.2rem;
+      font-family: Monaco;
+      font-size: 1rem;
       p {
         margin: 0;
       }

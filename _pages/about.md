@@ -6,9 +6,9 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: ../pics/prof_pic.jpg
   address: >
-    <br> <p>Contact</p>
+    <br> <p>Contact </p>
     <p>Science Center, Room 702</p>
     <p>One Oxford Street</p>
     <p>Cambridge, MA 02138</p>
