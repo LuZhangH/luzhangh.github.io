@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description:
-years: [2020]
+years: [2021,2020]
 nav: true
 ---
 
@@ -41,18 +41,10 @@ nav: true
 
 <!-- ### Talks -->
 
-- Floodgate: Inference for Model-Free Variable Importance, [Bernoulli-IMS One World Symposium](https://www.worldsymposium2020.org/), August 2020
+- Floodgate: Inference for Model-Free Variable Importance, [Bernoulli-IMS One World Symposium](https://www.worldsymposium2020.org/), Aug. 2020
 	- [Accompanying poster](../assets/floodgate/OWS_Floodgate_Poster.pdf)
 
+- Removing Population Structure from GWAS by Model-X Approaches, [Quantitative Biology Initiative at Harvard](https://quantbio.harvard.edu), Nov. 2019
 
 --- 
-
-<!-- ### Ongoing Projects -->
-<div id="container">
-    <div class="myheader">
-    <p> Ongoing Projects </p>
-    </div>
-</div>
-- StarTrek: Exploration of Hubs in Graphical Models with False Discovery Rate Control, with [Prof. Junwei Lu](https://junwei-lu.github.io)
-
 
