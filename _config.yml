@@ -103,7 +103,7 @@ scholar:
 
   last_name: Einstein
 
-  style: apa
+  style: chicago-note-bibliography
   locale: en
 
   source: /_bibliography/
