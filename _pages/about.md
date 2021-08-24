@@ -27,4 +27,6 @@ I am currently a PhD student in the [Department of Statistics at Harvard](https:
 
 Prior to Harvard, I obtained a B.S. in Statistics from the University of Science and Technology of China (USTC) in 2017, with my undergraduate thesis advised by [Prof. Zemin Zheng](https://bs.ustc.edu.cn/english/Profile-302.html).
 
+Please click here for my [CV](../assets/pdfs/LuZhang_CV.pdf).
+
 

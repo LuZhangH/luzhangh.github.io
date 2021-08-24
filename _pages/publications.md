@@ -41,8 +41,13 @@ nav: true
 
 <!-- ### Talks -->
 
+- Floodgate: Inference for Model-Free Variable Importance, [Dempster Prize Colloquium,](https://statistics.fas.harvard.edu/news/lu-zhang-wins-2020-dempster-prize), Apr. 2021
+    - [Slides](../assets/floodgate/DempsterTalk.pdf)
+
+
 - Floodgate: Inference for Model-Free Variable Importance, [Bernoulli-IMS One World Symposium](https://www.worldsymposium2020.org/), Aug. 2020
-	- [Accompanying poster](../assets/floodgate/OWS_Floodgate_Poster.pdf)
+	- [Poster](../assets/floodgate/OWS_Floodgate_Poster.pdf)
+    - [Slides](../assets/floodgate/OWS_Floodgate_Slides.pdf)
 
 - Removing Population Structure from GWAS by Model-X Approaches, [Quantitative Biology Initiative at Harvard](https://quantbio.harvard.edu), Nov. 2019
 
